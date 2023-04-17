@@ -1,0 +1,11 @@
+__pycache__
+venv
+*.pyc
+.env
+.DS_Store
+.idea
+current.pkl
+history.pkl
+processed.pkl
+credentials.py
+trellodash.bat
