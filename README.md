@@ -31,7 +31,7 @@ board_id = ""
 Save the file and start adapting your board (if you haven't already) making the
 lists contain keywords that identify them as "TO DO", "DOING" and "DONE".
 
-Make sure to use the SumUP trello power-up and setting an effort for each card. One way is to use a Fibonacci sequence for this.
+Make sure to use the SumUP trello power-up and setting an effort for each card. One way is to use a Fibonacci sequence for this: https://www.scrum.org/resources/blog/practical-fibonacci-beginners-guide-relative-sizing
 
 The next step is to configure the config.py file according to your board:
 * Configure the "stage_list" dictionary according to the defined keywords that will be present in the titles of the kanban lists.
