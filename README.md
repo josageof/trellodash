@@ -1,4 +1,4 @@
-﻿# Trello Dash :: Your team in charts
+﻿# Trello Dash 100% Python :: Your team in charts
 
 ## This tool takes your Trello Kanban Board and summarizes it through performance charts
 

@@ -4,8 +4,10 @@ venv
 .env
 .DS_Store
 .idea
+.gitignore
 current.pkl
 history.pkl
 processed.pkl
 credentials.py
 trellodash.bat
+trellodash1.png
